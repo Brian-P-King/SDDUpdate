@@ -1,0 +1,40 @@
+﻿{
+  "Metadata": {
+    "Id": "ea1046de-e060-46d3-b68e-75fba165d157",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm",
+    "Theme": "Flatly",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "SDD Path",
+        "tableView": true,
+        "key": "sddPath",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Folder ID",
+        "tableView": true,
+        "key": "folderId",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Submit",
+        "showValidations": false,
+        "disableOnInvalid": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "input": true
+      }
+    ]
+  }
+}

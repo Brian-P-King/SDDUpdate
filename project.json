@@ -5,6 +5,7 @@
   "main": "Assets.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
+    "UiPath.Form.Activities": "[24.10.2]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.6]",
     "UiPath.Testing.Activities": "[23.10.1]",
