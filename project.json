@@ -1,7 +1,7 @@
 {
-  "name": "BlankProcess4",
+  "name": "Update SDD Tables",
   "projectId": "349880d3-54f6-4cab-8c0d-2ffc0acea45b",
-  "description": "Blank Process",
+  "description": "Update tables with values from orch",
   "main": "Assets.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
